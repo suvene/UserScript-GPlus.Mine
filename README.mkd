@@ -9,7 +9,7 @@ What is this
 Install
 -------
 
-- https://github.com/suvene/UserScript-G+.Mine/raw/master/G+.mine.user.js
+- https://github.com/suvene/UserScript-GPlus.Mine/raw/master/G+.mine.user.js
 
 Author
 ------
