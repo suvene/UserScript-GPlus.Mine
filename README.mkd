@@ -1,0 +1,22 @@
+G+ Mine
+=================
+
+What is this
+------------
+
+自分専用 GooglePlus の UserScript
+
+Install
+-------
+
+- https://github.com/suvene/UserScript-G+.Mine/raw/master/G+.mine.user.js
+
+Author
+------
+
+- suVene <suvene@zeromemory.info>
+
+Other
+-----
+
+
